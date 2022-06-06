@@ -1,5 +1,6 @@
-## Hey 👋, This is LynxCatTheThird
+### Hi there 👋
 
+#### This is LynxCatTheThird
 
 -   ✨ Blog: <https://lynxcatthethird.github.io>
 
