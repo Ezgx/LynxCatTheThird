@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### LynxCatTheThird
--   ✨ Blog: <[https://argvchs.github.io](https://lynxcatthethird.github.io/)>
+-   ✨ Blog: <https://lynxcatthethird.github.io/>
 
 Here are some ideas to get you started:
 
