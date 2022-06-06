@@ -1,15 +1,12 @@
-## Hey 👋, This is Ruan
+## Hey 👋, This is LynxCatTheThird
 
 -   ✨ Blog: <https://lynxcatthethird.github.io>
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=LynxCatTheThird alt=LynxCatTheThird /> </p>
-
-<a href="https://github.com/ryyyc">
+<a href="https://github.com/LynxCatTheThird">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&show_icons=true&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/ryyyc">
+<a href="https://github.com/LynxCatTheThird">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynxCatTheThird&layout=compact" />
 </a>
 
