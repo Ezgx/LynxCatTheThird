@@ -1,7 +1,8 @@
 ### 你好~~~ 👋
 
-#### LynxCatTheThird
--   ✨ 博客: <https://lynxcatthethird.vercel.app/>
+#### 我是 LynxCatTheThird
+
+✨ 博客: <https://lynxcatthethird.vercel.app/>
 
 想快速了解我？戳下面 👇
 
