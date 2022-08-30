@@ -1,6 +1,25 @@
-### 你好~~~ 👋
+# Hi there~~~ 👋
 
-#### 我是 LynxCatTheThird
+### I'm LynxCatTheThird
+
+✨ Blog: <https://lynxcatthethird.vercel.app/>
+
+Want to get to know me quickly? see below 👇
+
+- 🔭 I am currently working on a literary work（I haven't written a word yet, I probably won't give up)
+- 🌱 I am currently learning C++
+
+[![LynxCatTheThird's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&theme=dark&show_icons=true&include_all_commits)](https://github.com/LynxCatTheThird)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynxCatTheThird&layout=compact&theme=dark)](https://github.com/LynxCatTheThird)
+
+Cards based on [anuraghazra/github-readme-stat](https://github.com/anuraghazra/github-readme-stats/), thanks a lot to [@anuraghazra](https://github.com/anuraghazra)
+
+</br>
+
+# 你好~~~ 👋
+
+### 我是 LynxCatTheThird
 
 ✨ 博客: <https://lynxcatthethird.vercel.app/>
 
@@ -9,12 +28,8 @@
 - 🔭 我目前正在创作一部文学作品（嘤嘤嘤，一个字还没戳，应该不会凉的）
 - 🌱 我目前正在学习 C++
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=LynxCatTheThird&show_icons=true&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yujincheng08&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-</picture>
-</br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LynxCatTheThird&layout=compact&exclude_repo=Hardware-Course&theme=onedark&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?usernameLynxCatTheThird&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
-</picture>
+[![LynxCatTheThird's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&theme=dark&show_icons=true&locale=cn&include_all_commits)](https://github.com/LynxCatTheThird)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynxCatTheThird&layout=compact&theme=dark&locale=cn)](https://github.com/LynxCatTheThird)
+
+卡片来自于[anuraghazra/github-readme-stat](https://github.com/anuraghazra/github-readme-stats/)，非常感谢[@anuraghazra](https://github.com/anuraghazra)
