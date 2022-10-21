@@ -6,7 +6,7 @@
 
 Want to get to know me quickly? see below 👇
 
-- 🌱 I am currently learning C++
+- 🌱 I am currently learning ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 - 🔭 I am currently working on a literary work（I haven't written a word yet, I probably won't give up)
 
 [![LynxCatTheThird's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&theme=dark&show_icons=true&include_all_commits)](https://github.com/LynxCatTheThird)
@@ -25,7 +25,7 @@ Cards based on [anuraghazra/github-readme-stat](https://github.com/anuraghazra/g
 
 想快速了解我？看下面 👇
 
-- 🌱 我目前正在学习 C++
+- 🌱 我目前正在学习 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 - 🔭 我目前正在创作一部文学作品（嘤嘤嘤，一个字还没戳，应该不会凉的）
 
 [![LynxCatTheThird's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&theme=dark&show_icons=true&locale=cn&include_all_commits)](https://github.com/LynxCatTheThird)
