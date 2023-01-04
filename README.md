@@ -1,4 +1,4 @@
-# Hi there~~~ 👋
+<img width=100% src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/andatoshiki@master/assets/header-blue.svg" alt="header banner" />
 
 ```cpp
 #include<cstdio>
@@ -17,7 +17,17 @@ int main(){
 }
 ```
 
-[![LynxCatTheThird's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&theme=dark&show_icons=true&include_all_commits)](https://github.com/LynxCatTheThird)
+<img src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/andatoshiki@master/assets/avatar.jpg" alt="logo" width="140" height="140" align="left" />
+
+<p align="center">
+    <img src="https://stats.toshiki.top/api?show_bg=1&username=LynxCatTheThird&theme=dark&include_all_commits=true" alt="andatoshiki's profile readme stats"></img>
+</p>
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/andatoshiki/toshiki-github-stats@master/generated/languages.svg" alt="LynxCatTheThird's GitHub stats"></img>
+</p>
+
+[![](https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&theme=dark&show_icons=true&include_all_commits)](https://github.com/LynxCatTheThird)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynxCatTheThird&layout=compact&theme=dark)](https://github.com/LynxCatTheThird)
 
@@ -45,3 +55,5 @@ int main(){
 [![LynxCatTheThird's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&theme=dark&show_icons=true&locale=cn&include_all_commits)](https://github.com/LynxCatTheThird)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynxCatTheThird&layout=compact&theme=dark&locale=cn)](https://github.com/LynxCatTheThird)
+
+<img width=100% src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/andatoshiki@master/assets/footer-blue.svg" alt="footer banner" />
