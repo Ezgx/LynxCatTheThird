@@ -1,8 +1,8 @@
 <img width=100% src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/andatoshiki@master/assets/header-blue.svg" alt="header banner" />
 
-```cpp
-#include<cstdio>
-#include<string>
+``` cpp
+#include <cstdio>
+#include <string>
 using namespace std;
 int main(){
 	string name="LynxCatTheThird",good_at="C++",hobby[2]={"Programing","Relaxing"},wip[2]={"some science fiction works","CSP-J"};
