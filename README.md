@@ -18,7 +18,7 @@ int main(){
 ```
 
 <p align="center">
-    <img src="https://readme-card-bad-apple-1.vercel.app/api?show_bg=1&username=LynxCatTheThird&theme=dark&include_all_commits=true" alt="andatoshiki's profile readme stats"></img>
+    <img src="https://readme.lynxcatthethird.eu.org/api?show_bg=1&username=LynxCatTheThird&theme=dark&include_all_commits=true" alt="andatoshiki's profile readme stats"></img>
 </p>
 
 <p align="center">
