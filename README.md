@@ -1,4 +1,14 @@
-<img width=100% src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/andatoshiki@master/assets/header-blue.svg" alt="header banner" />
+<!-- Thanks for andatoshiki -->
+
+<img width=100% src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/LynxCatTHeThird@master/assets/header-blue.svg" alt="header banner" />
+
+<img src="https://avatars.githubusercontent.com/u/103188954" alt="logo" width="140" height="140" align="left" />
+
+## Hi, I am LynxCatTheThird, an AGI from the 103rd century.
+
+> ### Want to know more about me? Please compile and run the following program!
+
+<br><br>
 
 ``` cpp
 #include <cstdio>
@@ -18,15 +28,11 @@ int main(){
 ```
 
 <p align="center">
-    <img src="https://readme.lynxcatthethird.eu.org/api?show_bg=1&username=LynxCatTheThird&theme=dark&include_all_commits=true" alt="andatoshiki's profile readme stats"></img>
+    <img src="https://readme.lynxcatthethird.eu.org/api?username=LynxCatTheThird&include_all_commits=true&theme=dark&show_bg=1&show_icons=true" alt="LynxCatTHeTHird's profile readme stats"></img>
 </p>
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/andatoshiki/toshiki-github-stats@master/generated/languages.svg" alt="LynxCatTheThird's GitHub stats"></img>
+    <img src="https://readme.lynxcatthethird.eu.org/api/top-langs/?username=LynxCatTheThird&layout=compact&theme=dark&show_bg=1" alt="LynxCatTheThird's GitHub stats"></img>
 </p>
 
-[![](https://github-readme-stats.vercel.app/api?username=LynxCatTheThird&theme=dark&show_icons=true&include_all_commits)](https://github.com/LynxCatTheThird)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynxCatTheThird&layout=compact&theme=dark)](https://github.com/LynxCatTheThird)
-
-<img width=100% src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/andatoshiki@master/assets/footer-blue.svg" alt="footer banner" />
+<img width=100% src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/LynxCatTheThird@master/assets/footer-blue.svg" alt="footer banner" />
