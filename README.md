@@ -28,11 +28,11 @@ int main(){
 ```
 
 <p align="center">
-    <img src="https://readme.lynxcatthethird.eu.org/api?username=LynxCatTheThird&include_all_commits=true&theme=dark&show_bg=1&show_icons=true" alt="LynxCatTHeTHird's profile readme stats"></img>
+    <img src="https://stats.toshiki.top/api?username=LynxCatTheThird&include_all_commits=true&theme=dark&show_bg=1&show_icons=true" alt="LynxCatTHeTHird's profile readme stats"></img>
 </p>
 
 <p align="center">
-    <img src="https://readme.lynxcatthethird.eu.org/api/top-langs/?username=LynxCatTheThird&layout=compact&theme=dark&show_bg=1" alt="LynxCatTheThird's GitHub stats"></img>
+    <img src="https://stats.toshiki.top/api/top-langs/?username=LynxCatTheThird&layout=compact&theme=dark&show_bg=1" alt="LynxCatTheThird's GitHub stats"></img>
 </p>
 
 <img width=100% src="https://cdn.jsdelivr.net/gh/LynxCatTheThird/LynxCatTheThird@master/assets/footer-blue.svg" alt="footer banner" />
